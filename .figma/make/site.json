@@ -1,0 +1,11 @@
+{
+  "title": "quantum girls club",
+  "description": "An anime-inspired STEM learning app for girls to explore physics, quantum computing, and engineering through interactive labs, missions, and lessons.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
